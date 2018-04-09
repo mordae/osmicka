@@ -38,7 +38,8 @@ lang: cs
     - Otevřená data
         - Rozpočet a faktury on-line
             - Včetně rozpadu na jednotlivé podřízené organizace
-            - Včetně historických dat alespoň od roku 2014, lépe od roku 2008
+            - Včetně historických dat alespoň od roku 2014, lépe od roku 2008 (Hotovo 2012 až 2016 na 2017 a 2018 podána 106)
+              
 
         - Majetek a on-line
 
