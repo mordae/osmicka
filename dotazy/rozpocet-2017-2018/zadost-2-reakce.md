@@ -11,7 +11,7 @@ headers-includes:
   - \linespread{1.5}
 ---
 
-Vážená paní Oleničová,
+Vážená paní Mařincová,
 
 v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím tímto podávám stížnost na postup při vyřizování žádosti o informace, která Vám byla doručena dne **20. 4. 2018** formou datové zprávy číslo `568896277`.
 
